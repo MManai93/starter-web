@@ -11,3 +11,6 @@ As stated above, the main purpose is to provide simple examples for Git training
 ## Deploiement
 Simple text
 this is a simple web project
+
+## Copyright
+2014 Git training 
