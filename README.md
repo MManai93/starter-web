@@ -17,4 +17,4 @@ Simple text
 this is a simple web project
 
 ## Copyright
-2014 Git training 
+2014 Git training. All rights reserved
